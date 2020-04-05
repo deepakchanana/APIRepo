@@ -24,6 +24,7 @@ public class TC1 {
 	public void testcase1() throws IOException
 	{
 	
+		System.out.println("Changes done");
 	String firstname=	RandomStringUtils.randomAlphabetic(10);
 	
 	System.out.println(firstname);
